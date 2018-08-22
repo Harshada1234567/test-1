@@ -27,8 +27,4 @@ public class sampleTest
 		int b=2;
 		 assertEquals(2,a==b);
 	}
-	
-
-	
- 
 }
