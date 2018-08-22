@@ -11,7 +11,7 @@ public class sampleTest{
 		assertTrue(a+b ==3);
 		
 	}
-	public void simplef()
+	public boolean simplef()
 	{
 		int a=2;
 		int b=2;
