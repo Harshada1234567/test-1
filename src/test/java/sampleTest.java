@@ -11,6 +11,15 @@ public class sampleTest{
 		assertTrue(a+b ==3);
 		
 	}
+	public void simplef()
+	{
+		int a=2;
+		int b=2;
+		assertFail(a+b ==3);
+		
+	}
+
+	
 
 	
  
