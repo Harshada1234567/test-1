@@ -2,7 +2,8 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-public class sampleTest{
+public class sampleTest
+{
 	@Test
 	public void simplepass()
 	{
