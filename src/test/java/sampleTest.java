@@ -8,27 +8,23 @@ import org.junit.Test;
 public class sampleTest
 {
 	@Test
-	public void simpleTestpass()
+	public void simple()
 	{
 		int a=1;
 		int b=2;
-		assertTrue(a+b ==3);
-		
+		assertTrue(a+b==3);
 	}
-	public void simpleTestFail()
+	public void simplef()
 	{
-		int a=2;
-		int b=3;
-		assertFalse(a+b ==6);
+		int a=1;
+		int b=2;
+		assertFalse(a+b==2);
 	}
 	public void simpler()
 	{
 		int a=2;
 		int b=2;
-		 assertEquals(2,a==b);
+		assertEquals(2,a==b);
 	}
 	
-
-	
- 
 }
