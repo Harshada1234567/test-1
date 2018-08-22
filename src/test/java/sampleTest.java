@@ -15,7 +15,7 @@ public class sampleTest{
 	{
 		int a=2;
 		int b=2;
-		assertFalse(a+b ==3);
+		assertFalse(a+b ==4);
 		
 	}
 
