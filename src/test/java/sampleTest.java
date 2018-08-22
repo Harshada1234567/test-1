@@ -15,7 +15,7 @@ public class sampleTest
 		assertTrue(a+b ==3);
 		
 	}
-	public boolean simpleTestFail()
+	public void simpleTestFail()
 	{
 		int a=2;
 		int b=3;
