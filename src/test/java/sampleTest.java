@@ -20,6 +20,13 @@ public class sampleTest
 		int b=3;
 		assertFalse(a+b ==6);
 	}
+	public void simpler()
+	{
+		int a=2;
+		int b=2;
+		 assertEquals(a==b);
+	}
+	
 
 	
  
